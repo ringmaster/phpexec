@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<pluggable type="plugin">
+	<name>PHP Exec</name>
+	<author url="http://habariproject.org/">The Habari Community</author>
+	<version>1.0</version>
+	<url>http://habariproject.org/</url>
+	<description><![CDATA[Executes PHP on posts that are appropriately marked.]]></description>
+	<license url="http://www.apache.org/licenses/LICENSE-2.0.html">Apache License 2.0</license>
+	<copyright>2012</copyright>
+	<guid>4d96d57f-4f97-4275-aaf9-7e717b9144ec</guid>
+	<help>
+		<value><![CDATA[
+			<p>To use PHP in a post, check the box in the settings on the edit page.</p>
+		]]></value>
+	</help>
+</pluggable>
